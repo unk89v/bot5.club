@@ -61,3 +61,4 @@ Talks from our BOT5 members.
 | [S?E?](https://bot5.club/events/seminar-minutes-?-?/) | [李晶莹](https://bot5.club/people/github_username) | [聊天机器人聊论语](https://www.bot5.club/talks/TBD) | TBD |
 | [S?E?](https://bot5.club/events/seminar-minutes-?-?/) | [王冠](https://bot5.club/people/crownpku) | [Chatstack：搭建中文NLU的全流程用户交互系统](https://www.bot5.club/talks/TBD) | Late November 2019 |
 | [S?E?](https://bot5.club/events/seminar-minutes-?-?/) | [张璐](https://bot5.club/people/github_username) | [生成式闲聊机器人的自动评价方法](https://www.bot5.club/talks/TBD) | TBD |
+| [S?E?](https://bot5.club/events/seminar-minutes-?-?/) | [wilson](https://bot5.club/people/github_username) | [关于认知智能的思考](https://www.bot5.club/talks/TBD) | TBD |
